@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+	<title>what</title>
+</head>
+<body>
+	<div class="container">
+		<!-- top row -->
+		<div class="row">
+			<div class="col-lg-12 bg-danger">personal information</div>
+		</div>
+
+		<!-- middle row -->
+		<div class="row">
+			<!-- middle-left -->
+			<div class="col-lg-8 bg-danger">
+				<p>Name-Ej</p>
+				<p>gr-sec 9 Ruby</p>
+				<p>Age-13</p>
+			</div>
+			<!-- middle-right -->
+			<div class="col-lg-4 bg-danger">
+				<img src="https://static.tvtropes.org/pmwiki/pub/images/20220830011858_1.jpg" alt="eme" width="200" class="rounded"> 
+			</div>
+		</div>
+	 
+		<div class="row">
+			<div class="col-lg-12 bg-danger">.</div>
+		</div>
+
+
+		<br/>
+
+		<!-- BOOTSTRAP TABLE -->
+		<div class="table">
+		<table class="table".table-dark>
+			<tr>
+			<th>Company</th>
+			<th>Name</th>
+			<th>Contact</th>
+			<th>Email</th>
+			</tr>
+				
+			<tr>
+			<th>Newhaven Traders</th>
+			<th>Rick Chaturvedi</th>
+			<th>360-555-5422</th>
+			<th>info@newhaventraders.com</th>
+			</tr>
+
+			<tr>
+			<th>Overlook Inn</th>
+			<th>Jill Torrance</th>
+			<th>605-555-4495</th>
+			<th>jtorrance@overlookinn.com</th>
+			</tr>
+
+			<tr>
+			<th>Riley Garden Supply</th>
+			<th>Vivica da Silva</th>
+			<th>360-555-4289</th>
+			<th>vivica@rileygardensupply.com</th>
+			</tr>
+
+			<tr>
+			<th>Knope Equestrain Center</th>
+			<th>Lil Sebastian</th>
+			<th>207-555-7225</th>
+			<th>lil@knopeequestrain.com</th>
+			</tr>
+
+			<tr>
+			<th>Venture Brewing</th>
+			<th>Hank Dean</th>
+			<th>308-555-105</th>
+			<th>hdean@venturbrewing.com</th>
+			</tr>	
+
+
+
+			</tr>
+		</div>		
+	</div>
+</body>
+</html>
